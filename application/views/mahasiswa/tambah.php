@@ -31,7 +31,7 @@
               <?php endforeach; ?>
             </select>
           </div>
-          <button type="submit" class="btn btn-primary float-right">Tambah Data</button>
+          <button type="submit" id="tombol" class="btn btn-primary float-right">Tambah Data</button>
         </form>
 
        </div>
